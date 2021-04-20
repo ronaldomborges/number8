@@ -25,7 +25,7 @@ line-height: 1.5em;
 .container {
     max-width: 640px; 
     margin: 50px auto;
-    background: white;
+    background: rgba(245, 248, 206, 0.815);
     padding: 20px;
     border-radius: 10px;
     
@@ -59,4 +59,7 @@ form button {
 
 form button:hover {
     background: var(--primary-color-darker);
+}
+footer {
+    font-size: 12px;
 }
